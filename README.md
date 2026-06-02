@@ -1,4 +1,4 @@
-# crisphan
+# Crisphan
 
 **Full-stack Developer | Web3 Enthusiast**
 
@@ -30,8 +30,9 @@ I'm a full-stack developer passionate about building scalable web applications a
 
 ## Featured Projects
 
-### [NanoPay]
+### NanoPay
 **Description:** NanoPay is a fully autonomous AI agent that researches user questions and pays for every answer using USDC micropayments on Arc Testnet. Built for the Circle Stablecoins Commerce Stack Challenge — Track 4: Best Agentic Economy Experience on Arc, this demo showcases a production-ready implementation of autonomous AI commerce powered by Circle Gateway, Circle Developer-Controlled Wallets, and the x402 HTTP payment protocol.
+
 **Tech:**
 | Layer | Technology | Why |
 |---|---|---|
@@ -48,9 +49,10 @@ I'm a full-stack developer passionate about building scalable web applications a
 
 **Link:** [NanoPay](https://github.com/crisphan94/build-on-arc/tree/main/paid-agent) | [Live Demo](https://nanopay-arc.vercel.app)
 
-### [DataShelf]
+### DataShelf
 **Description:** 
 DataShelf is a web application that turns Shelby's decentralized hot storage into a trustworthy, monetizable dataset marketplace for AI teams. Every dataset uploaded to Shelby carries a cryptographic Merkle root; DataShelf surfaces that proof in a human-readable UI so buyers can verify integrity before use — without any centralized trust authority.
+
 **Tech:** 
 | Layer | Technology | Why |
 |---|---|---|
@@ -62,11 +64,12 @@ DataShelf is a web application that turns Shelby's decentralized hot storage int
 | Blockchain | Aptos Devnet | Transaction signing, micropayments |
 | Metadata DB | Turso (SQLite edge) | Fast edge reads, simple schema |
 | Deployment | Vercel | Zero-config Next.js hosting |
+
 **Link:** [DataShelf](https://github.com/crisphan94/build-on-shelby) | [Live Demo](https://data-shelf.vercel.app/)
 
 ---
 
-## 🎯 What I'm Currently Working On
+##  What I'm Currently Working On
 
 - **Full-time Developer** at VietNam tech company
 - **AI Integration**: Applying LLMs and AI agents to automate business processes
@@ -78,9 +81,9 @@ DataShelf is a web application that turns Shelby's decentralized hot storage int
 
 ##  Let's Connect
 
-- 💼 **LinkedIn:** [@crisphan](https://www.linkedin.com/in/phan-van-tan-75641a166/)
-- 📧 **Email:** ptan94qn@gmail.com
-- 🐦 **Twitter:** [@crisphan](https://x.com/crisphan94)
+- **LinkedIn:** [@crisphan](https://www.linkedin.com/in/phan-van-tan-75641a166/)
+- **Email:** ptan94qn@gmail.com
+- **Twitter:** [@crisphan](https://x.com/crisphan94)
 
 ---
 
